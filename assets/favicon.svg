@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="214" height="214"
+	viewBox="0 0 214 214">
+	<defs>
+		<clipPath id="clip-Artboard_2">
+			<rect width="214" height="214" />
+		</clipPath>
+	</defs>
+	<g id="Artboard_2" data-name="Artboard – 2" clip-path="url(#clip-Artboard_2)">
+		<rect width="214" height="214" fill="rgba(255,255,255,0)" />
+		<g id="favicon" transform="translate(-721 -544)">
+			<rect id="Rectangle_15" data-name="Rectangle 15" width="214" height="214" rx="10"
+				transform="translate(721 544)" fill="#202124" />
+			<path id="Rectangle_15_-_Outline" data-name="Rectangle 15 - Outline"
+				d="M10,1a9.01,9.01,0,0,0-9,9V204a9.01,9.01,0,0,0,9,9H204a9.01,9.01,0,0,0,9-9V10a9.01,9.01,0,0,0-9-9H10m0-1H204a10,10,0,0,1,10,10V204a10,10,0,0,1-10,10H10A10,10,0,0,1,0,204V10A10,10,0,0,1,10,0Z"
+				transform="translate(721 544)" fill="#707070" />
+			<path id="Path_4" data-name="Path 4"
+				d="M91.025,52.392V72.767h-51.6v28.578q0,10.055,8.467,10.055t8.467-10.055V85.468H91.025v1.323q0,27.784-11.775,40.088t-31.356,12.3Q0,139.184,0,86.791v-34.4q0-28.048,13.363-40.22T46.836,0Q91.025,0,91.025,52.392ZM56.361,53.715V37.839q0-10.055-8.467-10.055T39.427,37.839V53.715Z"
+				transform="translate(873.025 720.184) rotate(180)" fill="#fff" />
+		</g>
+	</g>
+</svg>
